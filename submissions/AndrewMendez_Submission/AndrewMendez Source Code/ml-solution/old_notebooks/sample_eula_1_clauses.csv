@@ -1,0 +1,715 @@
+clauses_unormalized,clauses_normalized,page_number
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+MASTER SERVICES SUBSCRIPTION AGREEMENT ,master servic subscript agreement ,0
+Parties: ,,0
+Full Legal Name: ,full legal ,0
+ ,,0
+“COMPANY” ,,0
+COMPANY INC. ,compani ,0
+Business Entity Type: ,busi entiti ,0
+Corporation ,corpor ,0
+Organized In: ,organ ,0
+STATE ,state ,0
+Address: ,,0
+ADDRESS ,address ,0
+“Client” or “Ordering Activity” ,,0
+<< INSERT FULL CLIENT NAME >> ,insert full client name ,0
+ ,,0
+ ,,0
+ ,,0
+<< Insert address >> ,insert address ,0
+<< Insert address >> ,insert address ,0
+Attn:     ,,0
+Phone:    ,,0
+Email address:   ,email ,0
+Email address:   ,email ,0
+Attn:   ,,0
+Phone: ,,0
+  ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+Agreement Effective Date:     ,agreement effect ,0
+ ,,0
+ ,,0
+ ,,0
+This Master Services Subscription Agreement (the “Agreement”) sets forth the terms and conditions governing COMPANY’ provision to ,master servic subscript agreement set forth term condit govern provis ,0
+Client of a cloud-based asset management and decision support system. ,client asset manag decis support ,0
+"This Agreement, including the Order Form attached to it, as well as any Order Forms and Statements of Work entered into by the parties ",includ order form attach well order form statement work enter parti ,0
+"from time to time, the underlying AGENCY Schedule Contract, and Schedule Pricelist, together constitute the entire agreement of the ",time underli agenc schedul schedul togeth constitut entir agreement ,0
+parties and supersede any prior and contemporaneous oral or written understanding as to the parties’ relationship and the subject matter ,parti supersed prior contemporan oral written understand relationship subject matter ,0
+"hereof. In the event of any conflict or contradiction among the foregoing documents, the documents will control in the order listed in ",event conflict contradict among forego document control order list ,0
+Contract Clause 552.212-4(s). This Agreement may only be amended in a writing signed by both parties. ,contract claus agreement may amend write sign ,0
+"This Agreement may be executed in two or more counterparts, each of which will be deemed an original for all purposes, and together will ",agreement may execut two deem origin togeth ,0
+"constitute one and the same document. Once signed, both parties agree that any reproduction of this Agreement made by reliable means ",constitut one parti agre reproduct agreement made reliabl mean ,0
+"(for example, a photocopy, facsimile, or PDF file) is an original. ",pdf ,0
+AGREED TO AND ACCEPTED: ,agre ,0
+AGREED TO AND ACCEPTED: ,agre ,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+“Client” ,,0
+<< INSERT FULL CLIENT NAME >> ,insert full client name ,0
+Authorized Signature ,author signatur ,0
+Print Name ,print name ,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+ ,,0
+"“COMPANY"" ",,0
+COMPANY INC. ,compani ,0
+Authorized Signature ,author signatur ,0
+Print Name ,print name ,0
+Title ,titl ,0
+Date ,date ,0
+Title ,titl ,0
+Date ,date ,0
+1 ,,0
+,,0
+ ,,1
+ ,,1
+ ,,1
+1.  Definitions. ,,1
+a. ,,1
+b. ,,1
+c. ,,1
+d. ,,1
+e. ,,1
+f. ,,1
+"“Client Data” refers to the data Client or any User uploads or otherwise supplies to, or stores in, the Services under Client’s account. ",refer data client user upload otherwis suppli store servic ,1
+"“Documentation” means the user guides, help information, and other technical and operations manuals and specifications for the ",mean user help technic oper manual specif ,1
+"Services made available by COMPANY in electronic or other form, as updated from time to time. ",servic made avail compani electron updat time ,1
+"“Order Form” refers to the document which specifies, among other things, the Services to be provided to Client by COMPANY as well ",refer document among servic provid client compani well ,1
+"as the scope of use, order effective date and term, Subscription Fees and other prices, billing period, and other applicable details. The initial ",scope order effect date subscript fee bill applic initi ,1
+"Order Form entered into by the parties is attached to this Agreement. To be effective, additional Order Forms must be signed by both ",order form enter parti attach addit order form must sign ,1
+parties. All Order Forms are subject to this Agreement. ,order form subject ,1
+"“Services” refers to the online integrated asset management and decision support system offerings, and any other product or service ",refer onlin integr asset manag decis support system product servic ,1
+provided to Client by COMPANY as specified on the applicable Order Form. ,provid client compani specifi applic order ,1
+“Subscription Fees” mean the fees paid by Client in accordance with the AGENCY Pricelist for the right to access and use the ,mean fee paid client accord agenc pricelist right access use ,1
+Services during the applicable Service Term. ,servic applic servic ,1
+"“User"" refers to each employee, agent, contractor, and consultant who is authorized by Client to use the Services, and has been ",refer consult author client use ,1
+supplied a user identification and password by Client (or by COMPANY at Client’s request). ,suppli user identif password client compani ,1
+2.  Provision of the Services. ,provis ,1
+in the applicable Order Form. ,applic order ,1
+terms. ,,1
+a.  Availability and Use of the Services. COMPANY will make the Services available to Client in accordance with each Order Form entered ,avail use compani make servic avail client accord order form enter ,1
+into by the parties. Client’s use of the Services is limited to its internal business purposes solely for the scope and use limitations specified ,use servic limit intern busi purpos sole scope use limit specifi ,1
+"b.  Changes to the Services. COMPANY may make changes, modifications and enhancements to the Services from time to time. ",chang compani may make modif enhanc servic time ,1
+"Any material change, modification, or enhancement of the service agreed to in the Order Form and this Agreement shall be ",materi enhanc servic agre order form agreement shall ,1
+presented to Client for review and will not be effective unless and until both parties sign a written agreement updating these ,present client review effect unless parti sign written agreement updat ,1
+c. ,,1
+Support for the Services. COMPANY will provide Client with the support described in COMPANY’ then current technical support ,support compani provid client support describ current technic support ,1
+"policy, a current copy of which is attached as Exhibit A. ",current copi attach exhibit ,1
+d.  Business Continuity and Security Measures for the Services. ,busi continu secur measur ,1
+i.  Data Backup. The Services include standard off-site backup and recovery capabilities including daily incremental backups with ,data servic includ standard backup recoveri capabl includ daili increment backup ,1
+synthetic full backups created weekly and monthly. Weekly and monthly full backups are stored off-site on disk or via a cloud data storage ,synthet full backup creat weekli weekli monthli full backup store disk via cloud data storag ,1
+"service. With respect to long term retention, COMPANY follows industry standard best practices in having 24 monthly and seven yearly ",respect long term compani follow industri standard best practic monthli seven yearli ,1
+"backups. Upon request, COMPANY will offer additional long term monthly and yearly data retention options tailored to address unique ",upon compani offer addit long term monthli yearli data retent option tailor address uniqu ,1
+Client requirements. ,client ,1
+hours. ,,1
+"ii.  Data Restoration. In the event of a loss of Client Data due to a disaster, the Data is restored using the most recent backup so that ",data event loss client data due data restor use recent backup ,1
+"the Services are available within twelve hours of the incident. In the event of a server (host) loss, an already “imaged” stand-by server will ",servic avail within twelv hour event server alreadi server ,1
+be provisioned in place of the failed server in the “state-less” application server farm. This standby server can be in production within four ,provis place fail server applic server standbi server product within four ,1
+iii.  Business Continuity. COMPANY’ business continuity plans adhere to industry best practices. COMPANY will invoke those plans in ,busi busi continu plan adher industri best compani invok plan ,1
+the event there is a clearly adverse impact to the Services. COMPANY will review its business continuity plan for disaster recovery on an ,event clearli advers impact compani review busi continu plan disast recoveri ,1
+annual basis at Client’s request including any changes that have been made to the plan since the prior review. COMPANY will also ensure ,annual basi request includ chang made plan sinc prior compani also ensur ,1
+that any changes to its business continuity plans are communicated to Client in the event of any material change to the plan. ,chang busi continu plan commun client event materi chang ,1
+"iv.  Security Measures. In providing the Services, COMPANY complies with its information security procedures. A current copy of ",secur provid compani compli inform secur current copi ,1
+these procedures is attached as Exhibit B. COMPANY will provide Client on an annual basis with SSAE16 Reviews from the third-party data ,procedur attach exhibit compani provid client annual basi review data ,1
+center providers utilized in the provision of the Services to Client. Client acknowledges and agrees that all SSAE16 Reviews constitute ,center provid util provis servic client acknowledg agre review constitut ,1
+"Confidential Information of COMPANY. COMPANY recognizes that Federal agencies are subject to the Freedom of Information Act, 5 ",confidenti inform compani recogn feder agenc subject freedom inform ,1
+"U.S.C. 552, which requires that certain information be released, despite being characterized as “confidential” by the vendor. ",requir certain inform despit character ,1
+3.  Order Process. Client will order Services by signing an Order Form. In the event that Client’s business practices require a purchase ,order client order servic sign order event busi practic requir purchas ,1
+"order number be issued prior to payment of any COMPANY invoices issued pursuant to an Order Form, Client will promptly provide that ",order number issu prior payment compani invoic issu pursuant order client promptli provid ,1
+"number to COMPANY. Except as set forth in the Order Form, terms, provisions or conditions on any purchase order, acknowledgement, or ",number except set forth order provis condit purchas ,1
+other business form or writing that Client may provide to COMPANY or use in connection with the procurement of Services (or any ,busi form write client may provid compani use connect procur servic ,1
+"software) from COMPANY will have no effect on the rights, duties or obligations of the parties under this Agreement, regardless of any ",compani effect duti oblig parti regardless ,1
+"failure of COMPANY to object to such terms, provisions or conditions. ",failur compani object provis ,1
+"4.  Professional Services. If professional services (such as implementation, training, consulting, etc.) are included in any Order Form ",profession profession servic includ order form ,1
+"(“Professional Services”), then they will be set forth in a separately executed Statement of Work (“Statement of Work”) containing relevant ",set forth separ execut statement work contain relev ,1
+"project details including, if applicable, any works to be developed by COMPANY and provided to Client (“Deliverables”). In addition, the ",project detail work develop compani provid client ,1
+following provisions will apply to all Statements of Work: (a) COMPANY will retain all ownership rights to any and all Deliverables ,follow provis appli statement compani retain ownership right deliver ,1
+"excluding, any pre-existing technology, materials or Client Confidential Information supplied by Client for incorporation into such ",materi client confidenti inform suppli client incorpor ,1
+"Deliverable; and (b) COMPANY grants Client a royalty-free, non-exclusive, non-transferable, non-assignable worldwide license to use any ",compani grant client worldwid licens use ,1
+2 ,,1
+COMPANY ,compani ,1
+,,1
+ ,,2
+ ,,2
+ ,,2
+Deliverable to the extent necessary to permit Client to use the Deliverable in connection with the Services during the Service Term. All ,deliver extent necessari permit client use deliver connect servic servic ,2
+"Professional Services are provided only as an adjunct to the Services, and are separate and apart from the Services. ",profession servic provid adjunct separ apart ,2
+5.  Client Responsibilities Relating to Use of the Services. ,client respons relat use ,2
+"a.  Access to the Services. Client is responsible for (i) all activities conducted under its User accounts, (ii) complying with all applicable ",access client respons activ conduct user compli applic ,2
+"laws and regulations in connection with Client’s use of the Services, and (iii) obtaining and maintaining any hardware, software and ",law regul connect use obtain maintain softwar ,2
+"network infrastructure (“Client Equipment”) and any ancillary services needed to connect to, access or otherwise use the Services, and ",network infrastructur ancillari servic need connect access otherwis use ,2
+ensuring that the Client Equipment and ancillary services comply with the configuration requirements specified by COMPANY and agreed ,ensur client equip ancillari servic compli configur requir specifi compani agre ,2
+upon with Client. Client agrees to notify COMPANY immediately of any unauthorized use of any password or account or any other known ,upon client agre notifi compani immedi unauthor use password account known ,2
+or suspected breach of security with respect to the Services. ,suspect breach secur respect ,2
+b.  Use of the Services. Client agrees to use the Services solely for its internal business purposes in accordance with applicable laws. Client ,use client agre use servic sole intern busi purpos accord applic client ,2
+"will not: (i) resell, sublicense, or lease the Services or make the Services available to third parties for or through any time-share ",leas servic make servic avail third parti ,2
+"arrangement, (ii) make the Services available to any third party except as required by Users, (iii) send or store infringing or unlawful ",make servic avail third parti except requir send store infring unlaw ,2
+"material, (iv) attempt to gain unauthorized access to the Services or its related systems or networks, (v) interfere with or disrupt the ",attempt gain unauthor access servic relat system interfer disrupt ,2
+"integrity or performance of the Services or the data contained therein, (vi) modify, copy or create derivative works based on the Services, ",integr perform servic data contain copi creat deriv work base ,2
+"(vii) reverse engineer the Services, or (viii) access the Services for the purpose of building a competitive product or service or copying its ",revers engin access servic purpos build competit product servic copi ,2
+features or user interface. ,featur user ,2
+Fees and Payment Terms. ,fee payment ,2
+6. ,,2
+a. ,,2
+d. ,,2
+7. ,,2
+Fees. Client agrees to pay all Subscription Fees and other charges as specified in accordance with the AGENCY Pricelist on each ,client agre pay subscript fee charg specifi accord agenc pricelist ,2
+executed Order Form and Statement of Work. ,execut order form statement ,2
+b.  Additional Payment Obligations. All payments will be made in U.S. dollars. Fees are due within 30 days from receipt of COMPANY’ ,addit payment payment made fee due within day receipt ,2
+invoice (or as otherwise set forth in the invoice) unless subject to a reasonable and good faith dispute. ,invoic otherwis set forth unless subject reason good faith ,2
+c. ,,2
+"Taxes. Notwithstanding the provisions of FAR 52.229-3, Federal, State and Local Taxes, January 1991, the AGENCY Pricelist ",notwithstand provis far state local januari agenc pricelist ,2
+excludes all State and Local taxes levied on or measured by this Agreement or sales price of the Services furnished under this ,exclud state local tax levi measur agreement sale price servic furnish ,2
+Agreement. Taxes excluded from the Agreement price pursuant to the preceding sentence shall be separately stated on COMPANY’ ,tax exclud agreement price pursuant preced sentenc shall separ state ,2
+"agrees either to pay to COMPANY amounts covering such taxes or to provide evidence (i.e., tax exemption certificate) necessary to sustain ",agre either pay compani amount cover tax provid evid tax exempt necessari sustain ,2
+invoices and Client ,invoic client ,2
+an exemption therefrom. ,exempt ,2
+Scope of Use of the Services. Client is responsible for monitoring its use of the Services. If Client's use of the Services is found to be ,scope use client respons monitor use use servic found ,2
+"greater than that for which Client contracted, COMPANY will invoice Client for additional fees for the period of such additional use, and ",greater client compani invoic client addit fee period addit ,2
+Client will pay fees owed in accordance with this Agreement. ,client pay fee owe accord ,2
+"Intellectual Property Ownership Rights. As between Client and COMPANY, Client owns all right, title, and interest in the Client Data, ",intellectu properti ownership client client own interest client ,2
+"including all intellectual rights in the Client Data. Client grants COMPANY the nonexclusive, paid-up right to use the Client Data to provide ",includ intellectu right client client grant compani right use client data provid ,2
+"the Services to Client. COMPANY (and its licensors, where applicable) owns all right, title, and interest, including all intellectual rights, in ",servic compani own includ intellectu ,2
+"and to the Services, including to any and all enhancements, modifications, and extensions to the Services. This Agreement is not a sale and ",includ extens agreement sale ,2
+does not convey to Client any rights of ownership in or related to the Services. Except for the limited rights and licenses expressly granted ,convey client right ownership relat except limit right licens expressli grant ,2
+"in this Agreement, no other license is granted and no other use is permitted. ",licens grant use ,2
+8. ,,2
+Limited Warranty; Warranty Disclaimer. ,limit warranti ,2
+a.  Mutual Warranties. Each party represents and warrants that (i) it has the legal power to enter into and perform under this ,mutual parti repres warrant legal power enter perform ,2
+"Agreement, and (ii) it will comply with all other applicable laws in performance of its obligations and use of the Services hereunder. ",compli applic law perform oblig use servic ,2
+b.  By COMPANY. ,,2
+i.  General. COMPANY warrants that: ,compani warrant ,2
+A.  the Services will provide the functionality described in the applicable Documentation under normal use and circumstances. In ,servic provid function describ applic document normal use ,2
+"the event the Services are nonconforming, COMPANY will fix, provide a work around, or otherwise repair or replace the nonconforming ",event servic compani provid work otherwis repair replac nonconform ,2
+"Services, or, if COMPANY is unable to do so, terminate Client’s access to the Services and return the Contract Price paid for the Services ",compani unabl termin access servic return contract price paid servic ,2
+previously paid to COMPANY for the period beginning with Client’s notice of nonconformity through the remainder of the Initial Service ,previous paid compani period begin notic nonconform remaind initi servic ,2
+"Term or Extension Service Term, as applicable, and ",term extens servic ,2
+"B.  it routinely tests the Services using up-to-date anti-virus software in efforts to detect and, if so detected, to eliminate, any ",routin test servic use softwar effort detect ,2
+"disabling devices, viruses, Trojan, horses, trap doors, back doors, Easter eggs, time bombs, cancelbots, or other computer programming ",disabl trap back easter time comput program ,2
+"routines designed to damage, detrimentally interfere with, surreptitiously intercept or expropriate any other software or data (“Malicious ",routin design detriment interfer surreptiti intercept expropri softwar data ,2
+"Code”). If Malicious Code is introduced into Client’s computer systems by the Services, COMPANY will, at its own expense, assist and work ",malici code introduc comput system compani assist work ,2
+"with Client, at Client’s direction, to remediate the damage caused by the Malicious Code, provided that Client: (I) has taken all prudent ",remedi damag caus malici provid taken prudent ,2
+"business measures to prevent introduction of any such Malicious Code into its computer systems, (II) takes all prudent business measures ",busi measur prevent introduct malici code comput take prudent busi measur ,2
+"to minimize the effects of any such Malicious Code, and (III) delivers sufficient documentation to COMPANY to validate Client’s belief that ",minim effect malici deliv suffici document compani valid belief ,2
+such Malicious Code was introduced into Client’s computer system by the Services. ,malici code introduc comput system ,2
+3 ,,2
+COMPANY ,compani ,2
+,,2
+ ,,3
+ ,,3
+ ,,3
+ii.  No Infringement. COMPANY warrants that use of the Services as permitted under this Agreement does not infringe on the ,compani warrant use servic permit agreement infring ,3
+"intellectual property rights of any third party. In the event of any breach of this warranty, COMPANY will indemnify Client as specified in ",intellectu properti right third event breach compani indemnifi client specifi ,3
+Section 10 (“Indemnification”). ,section ,3
+remedies set forth in the SLA. ,remedi set forth ,3
+iii.  Service Level Warranty. COMPANY warrants that the Services will meet the commitments set forth in the Service Level Agreement ,servic level compani warrant servic meet commit set forth servic level agreement ,3
+"(the “SLA”), a copy of which is attached as Exhibit C. In the event of any failure to meet this warranty, COMPANY will provide the refund ",copi attach exhibit event failur meet compani provid refund ,3
+"c.  Disclaimer. THE PROVISIONS OF SECTION 8.b CONSTITUTE CLIENT’S SOLE AND EXCLUSIVE REMEDY, AND COMPANY’ SOLE AND EXCLUSIVE LIABILITY, FOR ",provis section constitut sole exclus sole exclus ,3
+"BREACH OF COMPANY’ WARRANTIES UNDER THIS AGREEMENT. EXCEPT AS SET FORTH IN SECTION 8.b OF THIS AGREEMENT, SERVICES ARE PROVIDED ON AN “AS IS” ",breach warranti except set forth section servic provid ,3
+"AND “AS AVAILABLE” BASIS. COMPANY AND ITS LICENSORS EXPRESSLY DISCLAIM ALL OTHER WARRANTIES, EXPRESS AND IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE ",compani licensor expressli disclaim express limit ,3
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. COMPANY does not make any warranty that the Services will be ,impli warranti merchant fit particular compani make warranti servic ,3
+"uninterrupted, timely, secure, or error free. COMPANY does not and cannot control the flow of data to or from COMPANY’ network and ",error compani cannot control flow data network ,3
+other portions of the Internet. Such flow depends in large part on the performance of Internet services provided or controlled by third ,portion flow depend larg part perform internet servic provid control third ,3
+"parties. At times, actions or inactions of such third parties can impair or disrupt Client’s connections to the Internet (or portions thereof). ",action inact third parti impair disrupt connect internet portion ,3
+COMPANY agrees to use commercially reasonable efforts to take all actions it deems appropriate to remedy and avoid such events. ,compani agre use commerci reason effort take action deem appropri remedi avoid ,3
+"However, COMPANY cannot guarantee that such events will not occur. Accordingly, COMPANY disclaims any and all liability resulting from ",compani cannot guarante event compani disclaim liabil result ,3
+or related to such events. ,relat ,3
+9.  Confidentiality. ,,3
+a.  Confidential Information Defined. “Confidential Information” means all confidential and proprietary information of a party (as the ,confidenti inform mean confidenti proprietari inform parti ,3
+"disclosing party) disclosed to the other party (as the receiving party), whether orally or in writing, that is designated as confidential or that ",disclos disclos parti receiv whether oral design confidenti ,3
+"reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure, including ",reason understood confidenti given natur inform circumst includ ,3
+"business and marketing plans, technology and technical information, product designs, and business processes. Confidential Information ",busi market technolog technic product busi confidenti inform ,3
+"specifically includes (i) in the case of Client, the Client Data, and (ii) in the case of COMPANY, the COMPANY Technology, and the Services. ",specif includ case client case compani ,3
+b. ,,3
+"Exclusions from Confidentiality. Confidential Information does not include any information that, without breach of any obligation ",exclus confidenti inform includ inform without breach oblig ,3
+"owed to the disclosing party: (i) is or becomes generally known to the public, (ii) was known to the receiving party prior to its disclosure by ",owe disclos becom gener known known receiv parti prior disclosur ,3
+"the disclosing party, (iii) was independently developed by the receiving party without breach of this Agreement, or (iv) is received from a ",disclos independ develop receiv parti without breach receiv ,3
+"third party. If the receiving party is compelled by law to disclose Confidential Information of the disclosing party, it will provide the ",third receiv parti compel law disclos confidenti inform disclos provid ,3
+"disclosing party with prior notice of the compelled disclosure (to the extent legally permitted) and reasonable assistance, at the disclosing ",disclos parti prior notic compel disclosur extent legal reason disclos ,3
+"party's cost, if the disclosing party wishes to contest the disclosure. ",disclos parti wish contest ,3
+"c.  Obligations regarding Confidential Information. Except as expressly permitted by this Agreement, COMPANY and Client will not, nor ",oblig regard confidenti except expressli permit compani client ,3
+"will they permit their respective employees, agents, attorneys or independent contractors to, disclose, use, copy, distribute, sell, license, ",permit respect attorney independ contractor ,3
+"publish, reproduce or otherwise make available Confidential Information of the other party. Licensor and the Government will each (i) ",reproduc otherwis make avail confidenti inform licensor govern ,3
+secure and protect the other party’s Confidential Information by using the same or greater level of care that it uses to protect its own ,secur protect confidenti inform use greater level care use protect ,3
+"confidential and proprietary information of like kind, but in no event less than a reasonable degree of care, and (ii) advise each of their ",confidenti proprietari inform like event less reason degre advis ,3
+"respective employees, agents, attorneys and independent contractors who have access to such Confidential Information to hold it ",respect attorney independ contractor access confidenti inform hold ,3
+"confidential. Notwithstanding the foregoing, either party may disclose the other party’s Confidential Information to the extent required by ",notwithstand either parti may disclos confidenti inform extent requir ,3
+"applicable law or regulation, including without limitation any applicable Freedom of Information Act or sunshine law, or by order of a court ",applic law includ without limit applic freedom inform act sunshin order court ,3
+"or other governmental entity, in which case such party will so notify the other party as soon as practicable and if possible at least thirty (30) ",government case parti notifi parti soon practic possibl least thirti ,3
+days prior to such party making such required disclosure. ,day prior parti make requir ,3
+d.  No Injunctive Relief. No injunctive relief will be available against either party in connection with the Services or this Agreement. See ,injunct injunct relief avail either parti connect servic see ,3
+28 U.S.C. § 1498(b). ,,3
+10.  Indemnification. ,,3
+a.  By COMPANY. ,,3
+i. ,,3
+"Indemnification Obligation. COMPANY will defend Client from and against all claims, suits or actions arising out of or resulting ",indemnif compani defend client suit action aris result ,3
+from any action against Client that is based on any third party claim that use of the Services as authorized in this Agreement infringes that ,action client base third parti claim use servic author agreement infring ,3
+"party’s United States patents, copyrights, or trade secrets, and will pay the amount of any final judgment awarded (including reasonable ",unit state trade pay amount final judgment award reason ,3
+attorney’s fees and costs) or final settlement made with respect to such claim provided that COMPANY is notified promptly by the Client in ,fee final settlement made respect claim provid compani notifi promptli client ,3
+writing of any such action. COMPANY shall coordinate its defense with the Department of Justice as requested by Client. In addition to ,write compani shall coordin defens depart justic request addit ,3
+"COMPANY’ obligation of indemnification, if the Services become or, in COMPANY’ opinion, are likely to become the subject of a claim of ",oblig servic becom like becom subject claim ,3
+"infringement, COMPANY may, at its option, either procure for Client the right to continue using the Services or replace or modify the ",compani either procur client right continu use servic replac modifi ,3
+"Services to make the Services non-infringing. If COMPANY, in its sole discretion, concludes that neither of these alternatives is reasonably ",servic make servic sole conclud neither altern reason ,3
+"available, COMPANY may terminate Client’s right to use the Services and release Client from its obligation to make future payments for the ",compani may termin right use servic releas client oblig make futur payment ,3
+Services or issue a pro rata refund for any fees paid in advance. The foregoing states the entire obligation and liability of COMPANY with ,servic issu pro rata refund fee paid forego state entir oblig liabil compani ,3
+respect to any infringement claim. Nothing contained herein shall be construed in derogation of the U.S. Department of Justice’s right to ,respect infring noth contain herein shall constru derog depart right ,3
+defend any claim or suit brought against the U.S. pursuant to its jurisdictional statute 28 U.S.C. § 516. ,defend claim suit brought pursuant jurisdict statut ,3
+ii.  Exceptions. COMPANY’ indemnification obligations will not apply to any claim resulting from the (i) use of the Services in ,indemnif oblig appli claim result use servic ,3
+"combination with other products, services or devices if the claim would not have arisen but for such combination or in a manner not ",combin servic devic claim would arisen combin manner ,3
+4 ,,3
+COMPANY ,compani ,3
+,,3
+ ,,4
+ ,,4
+e. ,,4
+f. ,,4
+ ,,4
+"authorized by this Agreement (or provided for in the Documentation), or (ii) use of the Services other than in accordance with this ",author agreement provid use servic accord ,4
+Agreement. ,,4
+"remedies, with respect to any third party claim. ",respect third parti ,4
+connection with the Services. ,connect ,4
+"iii.  Obligation. The provisions of this Section 10 set forth COMPANY’ sole and exclusive obligations, and Client’s sole and exclusive ",provis section set forth sole exclus sole exclus ,4
+b.  No Indemnification by Client. Client will not have any indemnification or defense obligations to COMPANY or any third party in ,indemnif client indemnif defens oblig compani third parti ,4
+11.  Limitation of Liability. Except with respect to a breach of each party’s confidentiality obligations as set forth in Section 9 or of ,limit except respect breach confidenti oblig set forth section ,4
+"COMPANY’ indemnification obligations under Section 10, and Client’s obligation to pay amounts due under this Agreement, neither party ",indemnif oblig section oblig pay amount due neither parti ,4
+"will be liable for consequential, incidental, indirect, punitive or special damages, regardless of whether such liability is based on breach of ",liabl punit special regardless whether liabil base breach ,4
+"contract, tort, strict liability, breach of warranties, failure of essential purpose or otherwise, and even if advised of the likelihood of such ",strict breach failur essenti purpos even advis likelihood ,4
+"damages. In no event will either party's cumulative liability arising out of or related to this Agreement, regardless of the form of action that ",event either cumul liabil aris relat regardless form action ,4
+"imposes liability, exceed, in the aggregate, (i) for Services, one year of Subscription Fees for the Services under the Order Form which are ",impos one year subscript fee servic order form ,4
+"the subject of the claim, and (ii) for Professional Services, fees paid pursuant to the Statement of Work under the Order Form which was ",subject profession fee paid pursuant statement work order form ,4
+the subject of the claim. The foregoing limitation of liability shall not apply to (a) personal injury or death resulting from COMPANY’ ,subject forego limit liabil shall appli person injuri death result ,4
+negligence; or (b) for any other matter for which liability cannot be excluded by law. The parties acknowledge that nothing in this provision ,matter liabil cannot exclud parti acknowledg noth provis ,4
+shall restrict Client’s statutory remedies in the event of fraud. ,shall restrict statutori remedi event ,4
+12.  Term and Termination. ,term ,4
+a. ,,4
+Term. This Agreement commences on the Effective Date specified on the first page of this Agreement and remains in effect until all ,agreement commenc effect date specifi first page agreement remain effect ,4
+Order Forms entered into by the parties have expired or been terminated. The initial term applicable to an Order Form means the period ,order form enter parti expir initi term applic order form mean period ,4
+"which begins on the Effective Date of the applicable Order Form and continues for the initial term specified in the Order Form (each, an ",begin effect date applic order form continu initi term specifi order form ,4
+"“Initial Service Term”). Upon expiration of the Initial Service Term of an Order Form, the Order Form will automatically terminate unless it ",servic upon expir initi servic term order order form automat termin unless ,4
+has been extended in a writing signed by both parties for a successive twelve month period (each of which is referred to as an “Extension ,extend write sign parti success twelv month period refer ,4
+"Service Term” and, together with the Initial Service Term, is referred to as the “Service Term”). In the event that an Order Form contains ",servic togeth initi servic refer event order form contain ,4
+"Services added to an existing subscription, the added Services will be billed on a pro-rated basis and will be coterminous with the Initial ",servic ad exist ad servic bill basi cotermin initi ,4
+"Service Term or applicable Renewal Service Term of that Order Form, unless otherwise agreed to by the parties. ",servic term applic renew servic term order unless otherwis agre ,4
+b.  No Automatic Renewals; No Anti-Deficiency Act Violations. Client will not be under any automatic renewal obligations in connection  with the Services or any other obligations that would violate the Anti-Deficiency Act (31 U.S.C. § 1341). ,automat act client automat renew oblig connect servic oblig would violat act ,4
+c. ,,4
+Termination. Recourse against the United States for any alleged breach of this agreement must be made under the terms of the ,recours unit state alleg breach agreement must made term ,4
+Federal Tort Claims Act or as a dispute under the contract disputes clause (Contract Disputes Act) as applicable. COMPANY shall proceed ,feder tort claim act disput contract disput claus disput compani shall proceed ,4
+"diligently with performance of this Agreement, pending final resolution of any request for relief, claim, appeal, or action arising under this ",dilig perform pend final resolut request action aris ,4
+Agreement. Both parties will perform in accordance with such final resolution.. ,parti perform accord final ,4
+d. ,,4
+"Effect of Termination; Survival. For a period of 30 days from the effective date of termination of this Agreement, COMPANY will make ",effect period day effect date termin compani make ,4
+the Client Data available for download provided Client is not in breach of this Agreement and has paid all fees due under this Agreement in ,client data avail download provid client breach agreement paid fee due agreement ,4
+"full. After that period, COMPANY will delete all backed-up Client Data from its systems and Client’s access to the Services will cease. In ",compani delet client data system access servic ,4
+"addition, each party will return to the other the original and all copies of the Confidential Information in the other’s possession, custody or ",parti return origin copi confidenti inform custodi ,4
+"control or, in lieu of returning such Confidential Information, destroy all copies of such Confidential Information, and certify to such ",control lieu return confidenti destroy copi confidenti certifi ,4
+destruction in a writing signed by its officer. Client’s obligation to pay COMPANY amounts due hereunder will survive any expiration or ,destruct write sign oblig pay compani amount due hereund surviv expir ,4
+termination of this Agreement. The terms of any other Sections that by their nature are intended to extend beyond termination will survive ,termin term section natur intend extend beyond termin surviv ,4
+termination of this Agreement for any reason. ,termin agreement ,4
+13.  General. ,,4
+a.  Governing Law and Venue. This Agreement will be governed exclusively by U.S. Federal law and venue. ,govern law agreement govern exclus feder law ,4
+b.  Disputes. Any dispute between COMPANY and Client in connection with this Agreement will be resolved in accordance with FAR ,disput compani client connect agreement resolv accord far ,4
+"52.233-1 (Disputes (May 2014)), and/or any other dispute resolution provision contained in this Agreement. ",disput resolut provis contain ,4
+c.  No Other Conflict with Federal Procurement Law. If any other terms or conditions contained in this Agreement are in any way ,conflict feder procur term condit contain agreement way ,4
+"conflicting or inconsistent with Federal procurement law, or any applicable FAR provisions, then such terms or conditions are hereby ",conflict inconsist feder procur applic far term condit herebi ,4
+deleted in their entirety from this Agreement. ,delet entireti ,4
+"d.  U.S. Government Restricted Rights. The Services are provided with RESTRICTED RIGHTS. Use, duplication or disclosure by the ",govern restrict servic provid restrict duplic disclosur ,4
+Government is subject to restrictions as set forth in the Rights in Technical Data and Computer Software clause at DFARS 252.227- ,govern subject restrict set forth right technic data comput softwar claus dfar ,4
+"7013(c)(1)(ii) or52.227-14, as applicable. Manufacturer is COMPANY Inc., ADDRESS. ",manufactur compani ,4
+"Suggestions. Client may from time to time provide suggestions, comments or other feedback (“Feedback”) to COMPANY with respect ",client may time time provid comment feedback compani respect ,4
+"to the Services. COMPANY is free to use the Feedback for any purpose, without obligation. COMPANY acknowledges that the ability to use ",compani free use feedback without compani acknowledg abil use ,4
+this Agreement and any Feedback provided as a result of this Agreement in advertising is limited by GSAR 552.203-71. ,agreement feedback provid result agreement advertis limit gsar ,4
+"Independent Contractors. The parties are independent contractors, and no partnership, franchise, joint venture, agency, fiduciary or ",independ parti independ joint fiduciari ,4
+employment relationship between the parties is created hereby. There are no third party beneficiaries to this Agreement. ,employ relationship parti creat third parti beneficiari ,4
+5 ,,4
+COMPANY ,compani ,4
+,,4
+ ,,5
+ ,,5
+ ,,5
+"g.  Notices. All notices required to be given under this Agreement will be given in writing, and sent to the recipient party's address stated ",notic requir given agreement given sent recipi address state ,5
+"in this Agreement, unless otherwise changed in writing. All notices will be given by certified or registered mail, or overnight carrier. Such ",unless otherwis chang notic given certifi regist overnight ,5
+notices will be deemed given on the date of receipt of delivery of said notice. ,notic deem given date receipt deliveri said ,5
+"h.  No Waiver. No failure or delay in exercising any right hereunder will constitute a waiver of such right. Except as otherwise provided, ",failur delay exercis right hereund constitut waiver except otherwis ,5
+"remedies provided herein are in addition to, and not exclusive of, any other remedies of a party at law or in equity. If any provision of this ",remedi provid herein addit exclus remedi parti law provis ,5
+"Agreement is held by a court of competent jurisdiction to be contrary to law, such provision will be modified by the court and interpreted ",agreement held court compet jurisdict contrari provis modifi court interpret ,5
+"so as best to accomplish the objectives of the original provision to the fullest extent permitted by law, and the remaining provisions will ",best accomplish object origin provis fullest extent permit remain provis ,5
+remain in effect. ,remain ,5
+i. ,,5
+j. ,,5
+Force Majeure. Excusable delays shall be governed by FAR 52.212-4(f). ,forc excus delay shall govern far ,5
+"Assignment. Neither party may assign this Agreement or otherwise transfer any of its rights or obligations hereunder, in whole or in ",neither parti may assign agreement otherwis transfer right oblig whole ,5
+"part, without the other party’s prior written consent. Any other attempt to assign or delegate any of its rights or obligations under this ",without prior written attempt assign deleg right oblig ,5
+"Agreement without such consent will be null and void. Subject to the foregoing, this Agreement will bind and inure to the benefit of each ",agreement without consent null subject agreement bind inur benefit ,5
+party's permitted successors and assign. ,permit successor ,5
+6 ,,5
+COMPANY ,compani ,5
+,,5
+ ,,6
+ ,,6
+ ,,6
+MASTER SERVICES SUBSCRIPTION AGREEMENT ,master servic subscript agreement ,6
+Exhibit A ,exhibit ,6
+Support for the Services ,support servic ,6
+COMPANY provides support for its hosted “software as a service” decision support system (the “Services”) as described below. ,compani provid support host decis support system describ ,6
+1.  Communication. COMPANY uses a web based “self-service” Client Portal for use by Key Contacts. The Client Portal includes the ,compani use web base client portal use key client portal includ ,6
+following information: ,follow ,6
+ ,,6
+ ,,6
+Case Management Database: Clients may create and view case history related to their past requests. Cases viewed in this ,case manag client may creat view case histori relat past case view ,6
+manner will include all of a Client’s cases in the database. ,manner includ case ,6
+Solutions: Customers have the ability to search COMPANY’ public knowledge database for resolution of questions surrounding ,custom abil search public knowledg databas resolut question surround ,6
+"general end-user usage, system administration and configuration. ",gener system administr ,6
+"To submit an issue through the Client Portal, the Key Contact will log into the Client Portal User Center and complete the request ",submit issu client key contact log client portal user center complet request ,6
+"form with all relevant information about the issue. Upon submission, COMPANY will generate a support request. ",form relev inform upon compani gener support ,6
+Other Means of Communication. COMPANY strongly encourages that issues be submitted via the Client Portal. While COMPANY ,mean compani strongli encourag issu submit via client compani ,6
+"will also generate support requests based on relevant information reported by the Key Contact over the phone or by email, note ",also gener support request base relev inform report key contact phone note ,6
+that support requests submitted by email are automatically classified as a Severity 4 Defect. ,support request submit email automat classifi sever ,6
+ ,,6
+"By Self Service Request via the Client Portal: To submit an issue through the Client Portal, the Key Contact logs into the Client ",self servic request via client submit issu client key contact log client ,6
+"Portal User Center and completes the request form with all relevant information about the issue. Upon submission, COMPANY ",portal user center complet request form relev inform upon compani ,6
+will generate a support request. ,gener support ,6
+ ,,6
+"By Telephone: Once connected with an COMPANY representative, the Key Contact identifies to COMPANY the Client’s name, ",connect compani key contact identifi compani ,6
+"location, issue, and other data as requested so that COMPANY is able to generate a support request. ",data request compani abl gener support ,6
+ ,,6
+"By Email: Upon receipt of an email request from the Key Contact, COMPANY will generate a support request. ",upon receipt email request key compani gener support ,6
+2.  Designation of Key Contacts. COMPANY will provide support to Client only by communication with the technical contacts designated ,design key compani provid support client commun technic contact design ,6
+"by Client in the Client Portal (each, a ""Key Contact""). Key Contacts may be changed at any time by updating the Customer account ",client client portal key contact may chang time updat custom account ,6
+information in the Client Portal. Each Key Contact must have the relevant technical knowledge regarding the Services necessary to ,inform client key contact must relev technic knowledg regard servic necessari ,6
+assist COMPANY as needed. ,assist compani ,6
+3.  Help Desk Support. COMPANY’ customer support help desk provides assistance to the Designated Support Contacts on use and ,help desk custom support help desk provid assist design support contact use ,6
+problem resolution issues with respect to the Services. The customer support help desk is available during the hours between 8:00 ,problem resolut issu respect custom support help desk avail hour ,6
+"a.m. and 5:00 p.m. (Central time) on regular business days (excluding standard COMPANY holidays, a list of which will be provided by ",regular busi day standard compani list provid ,6
+COMPANY to Customer upon request). COMPANY may change the hours during which the help desk is available but will not shorten ,compani custom upon compani may chang hour help desk avail shorten ,6
+the hours of support per day. ,hour support per ,6
+4.  Reporting and Resolving Issues with the Services. Resolution of submitted issues with the Services will depend upon a complete ,report resolv issu resolut submit issu servic depend upon complet ,6
+understanding of the variables unique to each situation with both parties working together to identify and resolve the issue. ,understand variabl uniqu situat parti work togeth identifi resolv ,6
+a. ,,6
+Severity Levels and Issue Identification. Services issues are categorized by COMPANY into one of four classifications: ,sever level issu servic issu categor compani one four ,6
+i. ,,6
+"""Severity 1"" – Services is inoperable. Client is unable to use the Services without significant disruption to Customer’s primary ",servic client unabl use servic without signific disrupt primari ,6
+business operations and with respect to which no workarounds exist that would enable the Services to be so used until corrections ,busi oper respect workaround exist would enabl servic use correct ,6
+ii. ,,6
+"""Severity 2"" – issue that is of a severity that prevents the Services from being used without significant disruption to Client’s ",issu sever prevent servic use without signific disrupt ,6
+primary business operations but with respect to which a workaround exists enabling business operations even if in a diminished ,primari busi oper respect workaround exist enabl busi oper even diminish ,6
+"""Severity 3"" – issue which restricts the use of one or more features of the Services to perform necessary functions but with respect ",issu restrict use one featur servic perform necessari function respect ,6
+"""Severity 4"" – are non-critical issue that prevent a function or component of the Services from operating properly but which is not ",issu prevent function compon servic oper properli ,6
+can be made. ,,6
+capacity. ,,6
+iii. ,,6
+iv. ,,6
+to which a workaround is available. ,workaround ,6
+"a Severity 1, Severity 2 or Severity 3 issue. ",sever sever sever ,6
+"b.  Problem Reporting. Client will promptly notify COMPANY regarding issues with the Services through the Client Portal, by telephone ",problem client promptli notifi compani regard issu servic client telephon ,6
+"or by email as described above. When submitting any request for support, the Key Contact will follow the problem reporting ",email describ submit request key contact follow problem report ,6
+procedures posted by COMPANY in the Client Portal. These procedures include identifying the Severity Level of the issue pursuant ,procedur post compani client procedur includ identifi sever level issu pursuant ,6
+to the above classification scheme and providing a clear description of the issue. ,classif scheme provid clear descript ,6
+7 ,,6
+COMPANY ,compani ,6
+,,6
+ ,,7
+ ,,7
+ ,,7
+ ,,7
+"At COMPANY’ request, the Key Contact will provide additional data to facilitate COMPANY in reproducing the issue. Examples of ",key contact provid addit data facilit compani reproduc exampl ,7
+data that may be requested include a description of the expected behavior and the frequency with which the issue occurs. ,data may request includ descript expect behavior frequenc issu ,7
+"COMPANY will attempt to reproduce the issue and identify its cause. If COMPANY is able to reproduce the issue, COMPANY’ ",compani attempt reproduc issu identifi compani abl reproduc ,7
+response will include a confirmation of the Severity Level of the issue for the purpose of developing a resolution and any proposed ,respons includ confirm sever level issu purpos develop resolut propos ,7
+work-around. ,,7
+"In the event COMPANY determines that the issue is, in fact, not an issue with the Services, but Customer disagrees with that ",event compani determin issu issu custom disagre ,7
+"determination, COMPANY and Client will work together to resolve the difference. This may include, but is not limited to, ",compani client work togeth resolv may limit ,7
+COMPANY’ demonstrating to Customer why COMPANY does not believe that the issue is with the Services. ,demonstr custom compani believ issu ,7
+COMPANY and Client may revise the Severity classification of the issue based on additional information provided by Client or ,compani client may revis sever classif issu base addit inform provid client ,7
+uncovered during the resolution process. ,uncov resolut ,7
+c. ,,7
+"Issue Resolution. COMPANY’ response and resolution targets are set forth in the table on the following page. However, resolution ",issu respons resolut target set forth tabl follow resolut ,7
+times will vary depending on the exact issue and customer environment. ,time vari depend exact issu custom ,7
+ ,,7
+2,,7
+ ,,7
+Target Time Frames 1 ,target time frame ,7
+Severity Level of Issue,sever level issu ,7
+Initial Response ,initi respons ,7
+3,,7
+ ,,7
+Workaround or Temporary Fix ,workaround temporari fix ,7
+Final Resolution ,final resolut ,7
+1 ,,7
+2 ,,7
+3 ,,7
+4 ,,7
+30 minutes ,minut ,7
+30 minutes ,minut ,7
+30 minutes ,minut ,7
+30 minutes ,minut ,7
+Eight hours ,eight hour ,7
+Two days ,two day ,7
+Five days ,five day ,7
+N/A,,7
+4,,7
+ ,,7
+Five days ,five day ,7
+Five days ,five day ,7
+N/A,,7
+4,,7
+ ,,7
+Next general release ,next gener releas ,7
+Target time frames are measured from creation of a case number per the process described above. Since Defects may not be resolvable ,target time frame measur creation case number per process describ sinc defect may resolv ,7
+"within a specific timeframe due to complexity of the solution and other factors, resolution targets are goals and not commitments. The use ",within specif timefram due complex solut resolut target goal use ,7
+"of the terms “hours” and “days” refer to ""business hours"" and ""business days,"" are based on COMPANY’ regular business schedule, and ",term refer base regular busi ,7
+exclude weekends and COMPANY locally-observed holidays. ,exclud weekend compani ,7
+Support requests submitted by email are automatically classified as a Severity 4 Defect. ,support request submit email automat classifi sever ,7
+"When a customer submits a problem report through the Client Portal at clients.COMPANY.com, the acknowledgement will generally be ",custom submit problem report client portal acknowledg gener ,7
+"under five minutes. When possible, a solution or a workaround will also be provided. ",five solut workaround also ,7
+ ,,7
+1 ,,7
+2 ,,7
+3 ,,7
+4 ,,7
+No guarantee of resolution. ,guarante ,7
+COMPANY provides routine updates on resolution efforts. ,compani provid routin updat resolut ,7
+"Specifically, with respect to Severity 1 issues, COMPANY will use continuous and diligent efforts until Client is back in production. ",respect sever compani use continu dilig effort client back ,7
+"Otherwise, all Target Time Frames which fall outside of COMPANY’ normal business hours will be carried over to the next business ",target time frame fall outsid normal busi hour carri next busi ,7
+day. ,,7
+"COMPANY endeavors to investigate and correct issues at COMPANY’ offices. If COMPANY is unable to do so, and provided the ",compani endeavor investig correct issu compani unabl provid ,7
+"suspected issue is not attributable, in whole or in part, to any of the excluded causes specified below, then upon Client’s request, ",suspect issu whole exclud caus specifi upon ,7
+COMPANY may travel to Client's location to investigate the issue with travel and other out-of-pocket expenses included as part of ,compani may travel locat investig issu travel expens includ part ,7
+"Maintenance Services. If, after COMPANY travels to the Client location, the suspected issue is determined to be unrelated to the ",mainten compani travel client suspect issu determin unrel ,7
+"Services, the problem resolution will be Client’s responsibility and Client agrees to pay any travel expenses in accordance with Federal ",problem resolut respons client agre pay travel expens accord feder ,7
+"Travel Regulation (FTR)/Joint Travel Regulations (JTR), as applicable. Client shall only be liable for such travel expenses as approved as ",travel regul travel regul client shall liabl travel expens approv ,7
+by Ordering Activity and funded under the applicable ordering document. COMPANY will have discretion as to the method and ,order activ fund applic order compani discret method ,7
+"manner of maintenance and support efforts, including the use of non-COMPANY personnel. ",manner mainten support includ use ,7
+d.  Escalation. ,,7
+i.  Escalation Initiation. Escalation may be initiated for a Severity 1 or Severity 2 issue from either COMPANY or Client via the ,escal escal may initi sever sever issu either compani client via ,7
+escalation path provided by COMPANY. ,escal path provid ,7
+ii.  Escalation Criteria. COMPANY’ escalation criteria for a Severity 1 or Severity 2 issue are as follows: ,escal escal criteria sever sever issu ,7
+ ,,7
+"Severity 1 issue – If the issue has not resolved within one business day and provided no material progress has been made, ",sever issu issu resolv within one busi day provid materi progress ,7
+the issue is escalated within COMPANY for additional action and resources as needed. Executive management monitors the ,issu escal within compani addit action resourc execut manag monitor ,7
+issues closely until it is resolved. ,issu close ,7
+ ,,7
+Severity 2 issue – escalated after three business days. ,sever issu escal three busi ,7
+5.  Management of Updates to the Services. COMPANY provides and manages all updates to maintain the Services at the latest version. ,manag updat compani provid manag updat maintain servic latest ,7
+COMPANY will notify Client prior to implementing an update that may materially affect the function or performance of the Services. ,compani notifi client prior implement updat may materi affect function perform ,7
+8 ,,7
+COMPANY ,compani ,7
+,,7
+ ,,8
+ ,,8
+ ,,8
+"Support for the Services does not include any services to implement or test the update, to setup or configure the update relative to ",support servic includ servic implement test setup configur updat rel ,8
+Client’s instance or to migrate Client Data. Services are available on a time-and-materials basis to assist Client with these. ,instanc migrat client servic avail basi assist client ,8
+6.  Conditions and Limitations of Support. COMPANY has no obligations to render support for the Services with respect to problems in ,condit limit compani oblig render support servic respect problem ,8
+"the use or functioning of the Services caused by any hardware or software product other than the Services, by any error in the use of ",use function servic caus hardwar softwar product error use ,8
+"the Services inconsistent with its authorized use, or by any modifications of the Services by any person or entity other than one ",servic inconsist author modif servic person entiti one ,8
+authorized by COMPANY. If support is rendered for any problem caused by any of the foregoing or for troubleshooting with respect ,author support render problem caus forego troubleshoot respect ,8
+"to any of the foregoing, or if COMPANY’ support services efforts are increased as a result, COMPANY reserves the right to impose ",support servic effort increas compani reserv right impos ,8
+"charges at it then AGENCY Pricelist time and materials rates for all such services, including preapproved travel and per diem expenses ",charg agenc pricelist time materi rate includ preapprov travel per diem expens ,8
+to be reimbursed consistent with Client’s travel policies. COMPANY’ customer service engineer will notify a caller as soon as the ,reimburs consist travel custom servic engin notifi caller soon ,8
+billable status of the call is determined. The caller may terminate the call at that time without charge. ,billabl statu call caller may termin call time without ,8
+9 ,,8
+COMPANY ,compani ,8
+,,8
+ ,,9
+ ,,9
+ ,,9
+MASTER SERVICES SUBSCRIPTION AGREEMENT ,master servic subscript agreement ,9
+Exhibit B ,exhibit ,9
+Information Security Procedures ,inform secur procedur ,9
+COMPANY’ information security program for its hosted “software as a service” decision support system (the “Services”) is described ,inform secur program host decis support system describ ,9
+below. ,,9
+ ,,9
+ ,,9
+ ,,9
+ ,,9
+1.  General Description of COMPANY’ Information Security Program. ,gener descript inform secur ,9
+COMPANY’ information security program is designed to: ,inform secur program design ,9
+"address the security, integrity and confidentiality of Client Data, ",address integr confidenti client ,9
+"person that is the subject of the Client Data, and ",person subject client ,9
+provide procedures for the proper disposal of Client Data. ,provid procedur proper dispos client ,9
+2.  General Procedures. ,gener ,9
+"protect against anticipated threats or hazards to the security or integrity of Client Data, ",protect anticip threat hazard secur integr client ,9
+protect against unauthorized access to or use of the Client Data that could result in substantial harm or inconvenience to the ,protect unauthor access use client data could result substanti harm inconveni ,9
+a.  Data Storage. COMPANY stores Client Data on secure computers located in a physically secure and controlled data center ,data compani store client data secur comput locat physic secur control data center ,9
+environment. COMPANY employs technologies that are consistent with industry standards for firewalls and other security ,compani employ technolog consist industri standard firewal secur ,9
+technologies to prevent COMPANY computers from being accessed by unauthorized persons. ,technolog prevent compani comput access unauthor ,9
+"b.  Data Transfers. COMPANY uses HTTPS standards to protect data integrity during transfers. In addition, COMPANY will maintain the ",data compani use http standard protect data integr compani maintain ,9
+following security measures: ,follow secur ,9
+"i.  HTTP with SSL 128-bit encryption (HTTPS), ",http ssl encrypt ,9
+"ii.  the ability to transfer files via Secure File Transfer Protocol (SFTP), ",abil transfer file via secur file transfer protocol ,9
+"iii.  encryption of files with at least AES-128 or 3DES-128 for transmission in unencrypted email/FTP/HTTP channels, and ",encrypt file least transmiss unencrypt ,9
+c. ,,9
+"Access and Use Monitoring. COMPANY will monitor COMPANY’ user access to and use of the Services for security, performance ",access use compani monitor user access use servic perform ,9
+iv.  encrypted passwords for the Services. ,encrypt password ,9
+"evaluation, and system utilization purposes. ",system util ,9
+3. ,,9
+Security Assessments and Audits. ,secur assess ,9
+"If requested by Client, COMPANY will cooperate with Client in an initial security assessment, including the completion of a risk ",request compani cooper client initi secur includ complet risk ,9
+"assessment questionnaire. In addition, COMPANY will provide Client with SSAE16 Reviews from the third party data center providers ",assess compani provid client review third parti data center provid ,9
+utilized in the provision of the Services as well as with the results of the penetration testing which COMPANY has periodically ,util provis servic well result penetr test compani period ,9
+performed by qualified third party security consultants. ,perform qualifi third parti secur ,9
+4.  Network and Physical Security Requirements. ,network physic secur ,9
+a.  Basic Security Requirements. COMPANY will: ,basic secur compani ,9
+"install and maintain a working, tuned network firewall to protect Client Data, ",instal maintain tune network firewal protect client ,9
+"regularly install security patches on the Services network, ",regularli instal secur patch servic ,9
+"iii.  ensure that authentication to the Services’ network web front-end is encrypted, ",ensur authent network web ,9
+"iv.  where applicable, use and regularly update anti-malware prevention tools, ",use regularli updat prevent ,9
+v.  maintain a credential management process which includes assigning a unique ID to each person with computer access with a ,maintain credenti manag process includ assign uniqu person comput access ,9
+"periodic password change requirement, ",period password chang ,9
+"track access to systems, generate and store audit trail and logs to help identify malicious activity, ",track access gener store audit trail log help identifi malici ,9
+"regularly test efficiency and health of security controls, systems and processes, ",regularli test effici health secur system ,9
+"viii.  maintain a policy that addresses information security for employees and representatives, ",maintain polici address inform secur employe ,9
+"restrict physical access to systems containing Client Data, ",restrict physic access system contain client ,9
+restrict remote access to the network / devices and employ secure remote access controls to verify the identity of users ,restrict remot access network devic employ secur remot access control verifi ident user ,9
+"connecting, and ",,9
+xi.  protect on-site and off-site backups from unauthorized access during transit and storage. ,protect backup unauthor access transit ,9
+b.  Encryption. COMPANY will use cryptographic algorithms that have been published and evaluated by the general cryptographic ,compani use cryptograph algorithm publish evalu gener cryptograph ,9
+community with sufficient strength to equate to 128-bit or better. ,commun suffici strength equat ,9
+5. ,,9
+Security Breach. ,secur ,9
+"a.  Definition of Security Breach. “Security Breach” means the actual or suspected unauthorized acquisition, destruction, loss, ",definit secur mean actual suspect unauthor ,9
+"misappropriation or access to, disclosure, use or modification of Client Data. ",misappropri access use modif client ,9
+10 ,,9
+COMPANY ,compani ,9
+i. ,,9
+ii. ,,9
+vi. ,,9
+vii. ,,9
+ix. ,,9
+x. ,,9
+,,9
+ ,,10
+ ,,10
+ ,,10
+b.  Notification of Security Breach. COMPANY will notify Client in accordance with applicable law of any actual or suspected security ,notif secur compani notifi client accord applic law actual suspect secur ,10
+"breach of any Client Data immediately following discovery of a Security Breach, and provide Client with a detailed description of the ",breach client data immedi follow discoveri secur provid client detail descript ,10
+breach. ,,10
+c. ,,10
+Investigation of Security Breach. COMPANY will: ,investig secur compani ,10
+"ii.  promptly investigate each Security Breach, ",promptli investig secur ,10
+iii. ,,10
+"take all reasonable steps necessary to limit, stop or otherwise remedy the Security Breach, ",take reason step necessari stop otherwis remedi secur ,10
+iv.  promptly implement appropriate internal technical and procedural controls to reduce the likelihood of a recurrence of a Security ,promptli implement appropri intern technic procedur control reduc likelihood recurr secur ,10
+"Breach, and ",,10
+v.  provide Client with documentation detailing the controls implemented. ,provid client document detail control ,10
+6.  Return or Destruction of Data upon Termination. ,return destruct data upon ,10
+"COMPANY will maintain a documented process that provides for the security and return or destruction of all Client Data, including ",compani maintain document process provid secur return destruct client includ ,10
+"copies stored on backup media, in the event the Services um is terminated. Notwithstanding the foregoing, with respect to copies of ",copi store backup event servic notwithstand respect copi ,10
+"any of the Client Data retained by COMPANY in any backup tapes (or similar media) that are not easily accessible, COMPANY will ",client data retain compani backup tape similar easili compani ,10
+continue to maintain the Data on such back-up tapes or other media subject to obligations of confidentiality under this Agreement. In ,continu maintain data tape media subject oblig confidenti ,10
+"addition, the Client Data will be destroyed or overwritten by COMPANY in the ordinary course of business for such records. ",client data destroy overwritten compani ordinari cours busi ,10
+11 ,,10
+COMPANY ,compani ,10
+,,10
+ ,,11
+ ,,11
+ ,,11
+MASTER SERVICES SUBSCRIPTION AGREEMENT ,master servic subscript agreement ,11
+Exhibit C ,exhibit ,11
+Service Level Agreement ,servic level agreement ,11
+COMPANY’ service level agreement (“SLA”) for its hosted “software as a service” decision support system (the “Services”) is described ,servic level agreement host decis support system describ ,11
+below. ,,11
+1.  Definitions. ,,11
+b. ,,11
+c. ,,11
+d. ,,11
+e. ,,11
+f. ,,11
+hours. ,,11
+a. ,,11
+“Emergency Maintenance” means downtime of the Services outside of the Scheduled Maintenance Window hours that is required to ,mean downtim servic outsid schedul mainten window hour requir ,11
+"complete the application of urgent patches or fixes, or to undertake other urgent maintenance activities. If Emergency Maintenance is ",complet applic urgent patch undertak urgent mainten emerg mainten ,11
+"required, COMPANY will immediately contact Client and provide the expected start time of the Emergency Maintenance, its planned ",compani immedi contact client provid expect start time emerg plan ,11
+"duration, and whether COMPANY expects the Services to be unavailable during the Emergency Maintenance. ",whether compani expect servic unavail emerg ,11
+“Monthly Subscription Fee” means one-twelfth of the annual fee applicable to the Services. ,subscript mean annual fee applic ,11
+“Scheduled Maintenance Window” means the window during which scheduled maintenance of the Services may be performed. There ,mainten mean window schedul mainten servic may ,11
+"is generally one Scheduled Maintenance Window monthly (currently, the first Friday in the month from 6 PM until 10 PM (Central ",gener one schedul mainten window monthli first friday month ,11
+time)). COMPANY will provide Client with a minimum of five business days advance notification of any Scheduled Maintenance ,compani provid client minimum five busi day advanc notif schedul mainten ,11
+Window. The notification will include the expected start time and duration of the Scheduled Maintenance Window activity. ,notif includ expect start time durat schedul mainten window ,11
+COMPANY will use commercially reasonable efforts to schedule any Scheduled Maintenance Window activity during off-business ,compani use commerci reason effort schedul schedul mainten window activ ,11
+“Service Credit” means the percentage of the Monthly Services Fee that is awarded to Client for a validated claim related to failure to ,mean percentag monthli servic fee award client valid claim relat failur ,11
+meet the System Availability objective during that month. ,meet system avail object ,11
+“Service Level Agreement” is specified in Section 3 (“System Availability Service Level Agreement”) of this Exhibit B. ,level specifi section avail servic level exhibit ,11
+"“System Availability” means the percentage of total time during which the Services are available to Client, excluding the Scheduled ",mean percentag total time servic avail exclud schedul ,11
+Maintenance Window and Emergency Maintenance. ,mainten window emerg ,11
+2.  General Terms Applicable to the Service Level Agreement for the Services. ,gener term applic servic level agreement ,11
+a. ,,11
+Service Credits. Service Credits earned by Client hereunder will be applied against fees next due for the Services. If Service Credits ,servic servic credit earn client hereund appli fee next due servic credit ,11
+"cannot be applied to future fees due for the Services because the Agreement has expired or been terminated, COMPANY will promptly ",cannot appli futur fee due servic agreement expir compani promptli ,11
+"pay Client the amount of the credit, provided Client will not receive a refund if COMPANY has terminated the Agreement for Client’s ",pay client amount provid client receiv refund compani termin agreement ,11
+material uncured breach. ,materi uncur ,11
+b. ,,11
+Service Level Agreement Claims. ,servic level agreement ,11
+Services. ,,11
+Client will have the remedies under this Service Level Agreement commencing 30 days after implementation and go-live of the ,client remedi servic level agreement commenc day implement ,11
+Client must notify COMPANY via email to support@COMPANY.com within five business days from the date of the incident ,client must notifi compani via email within five busi day date incid ,11
+Client first believes entitles it to receive a remedy under this Service Level Agreement set forth below. ,client first believ entitl receiv remedi servic level agreement set forth ,11
+iii. ,,11
+"All claims for failure to meet the Service Level Agreement are subject to validation by COMPANY. To validate a claim, ",claim failur meet servic level agreement subject valid valid ,11
+"COMPANY will use log files, database records, audit logs, and any other available information as the basis for making a good ",compani use log databas audit avail inform basi make good ,11
+"faith judgment on the applicability of Service Credits to said incident. Upon Client’s request, COMPANY will make information ",faith judgment applic servic credit said upon compani make inform ,11
+used to validate a claim available for auditing by Client. ,use valid claim avail audit ,11
+iv. ,,11
+The remedies set forth herein represent Client’s sole and exclusive remedy for COMPANY’ breach of the Service Level ,remedi set forth herein repres sole exclus remedi breach servic level ,11
+Agreement defined in this Exhibit. ,agreement defin ,11
+c. ,,11
+Exclusions. ,,11
+Client will not have any remedies under this Service Level Agreement in connection with any force majeure event. ,client remedi servic level agreement connect forc majeur ,11
+Client will not have any remedies under this Service Level Agreement to the extent a Service Credit claim is due to: (A) use of ,client remedi servic level agreement extent servic credit claim due use ,11
+"the Services outside the scope described in the Agreement, (B) Client’s equipment and/or third party software, hardware or ",servic outsid scope describ equip third parti hardwar ,11
+"network infrastructure outside of COMPANY’ data center and not under the direct control of COMPANY, (C) failure of Client to ",network infrastructur outsid data center direct control failur client ,11
+"meet the configuration requirements for Client equipment specified by COMPANY, (D) failure of the external internet beyond ",meet configur requir client equip specifi failur extern internet beyond ,11
+"COMPANY’ network, (E) any inappropriate actions or inactions of Client or any other third party not under the direct control of ",inappropri action inact client third parti direct control ,11
+"COMPANY, or (F) attacks (i.e. hacks, denial of service attacks, malicious introduction of viruses and disabling devices) caused by ",attack denial servic malici introduct virus disabl caus ,11
+"third parties, provided COMPANY has taken all reasonable steps to prevent such attacks. ",third provid compani taken reason step prevent ,11
+3. ,,11
+System Availability Service Level Agreement. ,system avail servic level ,11
+12 ,,11
+COMPANY ,compani ,11
+i. ,,11
+ii. ,,11
+i. ,,11
+ii. ,,11
+,,11
+ ,,12
+ ,,12
+ ,,12
+ ,,12
+ ,,12
+ ,,12
+a. ,,12
+System Availability. COMPANY warrants at least 99% System Availability during each calendar month. ,system compani warrant least system avail calendar ,12
+"b.  Remedy. If the System Availability is less than 99%, and if Client has fulfilled all of its obligations under the Agreement including this ",system avail less client fulfil oblig agreement includ ,12
+"Exhibit, COMPANY will provide Client with a Service Credit applied to the month in which the failure to meet this Service Level ",compani provid client servic credit appli month failur meet servic level ,12
+Agreement has occurred. The Service Credit will be calculated in accordance with the table below. ,agreement servic credit calcul accord tabl ,12
+% of System Availability per Calendar Month ,system avail per calendar month ,12
+Service Credit ,servic credit ,12
+< 99% ,,12
+< 98% ,,12
+< 97% ,,12
+2% ,,12
+4% ,,12
+6% ,,12
+13 ,,12
+COMPANY ,compani ,12
+,,12
